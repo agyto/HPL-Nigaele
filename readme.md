@@ -1,4 +1,3 @@
-### Perhitungan HPL menurut Nigaele
 ##Algoritma perhitungan Hari Perkiraan Lahir (HPL) menurut Nigaele
 >Rumus Perhitungan Hari Perkiraan Lahir (HPL) = HHT , bulan, tahun 
 >

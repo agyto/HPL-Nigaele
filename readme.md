@@ -12,7 +12,7 @@
 ```
 > Created by Agit Amrullah 
 > Email : the3cube@gmail.com
-> WA/Phone : +6285643102182
+> WA/Phone : +6282138503424
 ```
 >
 ```
